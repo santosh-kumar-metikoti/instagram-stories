@@ -2,4 +2,4 @@
 
 A project on react-native  
 
-A react native component instagram stories
+A react-native component instagram stories
