@@ -5,6 +5,7 @@ import { View, Image } from "react-native";
 
 import styles from "./storyItemStyles";
 
+
 import Avatar from "../../avatar/view/avatarView";
 
 export default class extends PureComponent {
