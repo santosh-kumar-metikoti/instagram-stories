@@ -2,6 +2,7 @@
 import React, { Fragment, PureComponent } from "react";
 import { View, Image } from "react-native";
 
+
 import styles from "./storyItemStyles";
 
 import Avatar from "../../avatar/view/avatarView";
