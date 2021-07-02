@@ -1,15 +1,9 @@
 import React, { Component } from "react";
 import { Text, TouchableOpacity } from "react-native";
 
-// Constants
 
-// Components
 
 class ButtonView extends Component {
-  /* Props
-   * ------------------------------------------------
-   *   @prop { type }    name                - Description....
-   */
 
   constructor(props) {
     super(props);
