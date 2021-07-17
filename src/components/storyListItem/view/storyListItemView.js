@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { View, Image, TouchableOpacity, Text } from "react-native";
 
+
 // Constants
 import DEFAULT_AVATAR from "../../../assets/avatars/no_avatar.png";
 
